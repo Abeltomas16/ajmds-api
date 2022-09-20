@@ -15,8 +15,7 @@
 		"preco": 15150.50,
 		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/2.jpg",
 		"categoria": "Tinteiro"
-	},
-		     {
+	},{
 		"id": 3,
 		"nome": "Samsung A53 5G",
 		"marca": "Samsung",
@@ -24,6 +23,22 @@
 		"preco": 241489.57,
 		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/3.jpg",
 		"categoria": "Telefone"
+	},{
+		"id": 4,
+		"nome": "Resma de papel Navigator",
+		"marca": "Navigator",
+		"descricao":"O papel Navigator tem garantia de 99,99% sem encravamentos. O papel Navigator promete a melhor qualidade, os melhores resultados e produtividade." ,
+		"preco": 2591.50,
+		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/4.jpg",
+		"categoria": "Outros"
+	},{
+		"id": 5,
+		"nome": "Resma de papel Spectra",
+		"marca": "Spectra",
+		"descricao":"Está à procura de Papel Spectra A4 ? A  Ajmds é uma loja dedicada à venda deste material." ,
+		"preco": 2514.12,
+		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/5.jpg",
+		"categoria": "Outros"
 	}
 		    ]
 }
