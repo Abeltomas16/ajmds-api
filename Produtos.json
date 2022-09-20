@@ -15,6 +15,15 @@
 		"preco": 15150.50,
 		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/2.jpg",
 		"categoria": "Tinteiro"
+	},
+		     {
+		"id": 3,
+		"nome": "Samsung A53 5G",
+		"marca": "Samsung",
+		"descricao":"O Samsung Galaxy A53 é um smartphone Android de bom nível, ótimo para fotos, que pode satisfazer até o mais exigente dos usuários. Tem uma enorme tela Touchscreen de 6.5 polegadas com uma resolução de 2400x1080 pixel. Sobre as características deste Samsung Galaxy A53 na verdade não falta nada. Começando pelo 5G que permite a transferência de dados e excelente navegação na internet, além de conectividade Wi-fi e GPS. Tem também leitor multimídia, videoconferência e bluetooth. Enfatizamos a boa memória interna de 256 GB com a possibilidade de expansão." ,
+		"preco": 241489.57,
+		"img": "https://github.com/Abeltomas16/ajmds-api/blob/main/3.jpg",
+		"categoria": "Telefone"
 	}
 		    ]
 }
