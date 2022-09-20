@@ -1,0 +1,11 @@
+{
+	"Produtos": [{
+		"id": 1,
+		"nome": "Tinteiro HP 652 Tricolor",
+		"marca": "HP",
+		"descricao":"COR: TRICOLOR. TECNOLOGIA DE IMPRESSÃO : JATOS DE TINTA" ,
+		"preco": 10482.00,
+		"img": null,
+		"categoria": "Tinteiro"
+	}]
+}
